@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math-Magicians-app] <a name="about-project"></a>
+# 📖 [Math-Magicians-app_react_components] <a name="about-project"></a>
 
 > [Math-Magicians-app]
 
