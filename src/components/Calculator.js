@@ -1,6 +1,3 @@
-/* eslint-disable react/no-unused-state */
-/* eslint-disable react/destructuring-assignment */
-/* eslint-disable react/prefer-stateless-function */
 import React from 'react';
 import Calculate from '../logic/calculate';
 
@@ -20,13 +17,14 @@ class Calculator extends React.Component {
   };
 
   render() {
+    const { next, total } = this.state;
     return (
       <div className="Calculator">
         <form className="row">
           <input
             disabled
             className="res"
-            value={this.state.next || this.state.total || 0}
+            value={next || total || 0}
           />
         </form>
         <div className="row">
