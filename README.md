@@ -43,7 +43,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 > HTML
-> CSS and
+> CSS
 > Javascript
 > React
 
