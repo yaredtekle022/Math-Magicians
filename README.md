@@ -1,36 +1,11 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b>My README</b></h3>
+  <h3><b>Math Magician App</b></h3>
 
 </div>
 
@@ -61,8 +36,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Math-Magicians-app_react_components] <a name="about-project"></a>
 
-> [Math-Magicians-app]
-
 **[Math Magicians app]** is React app that Calculate simple mathmatics operations .
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -70,7 +43,7 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 > HTML
-> CSS and
+> CSS
 > Javascript
 > React
 
@@ -83,6 +56,9 @@ After you're finished please remove all the comments and instructions!
 
 - **[Maths-Calculator]**
 - **[React-Events]**
+- **[Add-styles]**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +67,8 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yaredtekle022.github.io/Math-Magicians/src/)
+<!--- [Live Demo Link](https://yaredtekle022.github.io/Math-Magicians/src/) -->
+- comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,10 +81,10 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need node package manager<br>
+In order to run this project you need to have <br>
 
-
- npm install 
+- a browser
+- IDE
 
 
 ### Setup
@@ -123,10 +100,7 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:<br>
-  npx create-react-app my-app
-  cd my-app
-  npm start
-
+  npm install
 
 ### Usage
 
@@ -178,7 +152,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project please give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +161,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
+I would like to thank my coding partners that helps me to finish this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,4 +170,4 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.

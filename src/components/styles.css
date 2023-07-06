@@ -1,0 +1,21 @@
+.quotesCont {
+  color: green;
+  width: 50%;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.loadQuote {
+  margin: 0 auto;
+  width: 0.85rem;
+  height: 0.85rem;
+  background: red;
+  box-shadow: 0.85rem 0 red, -1.25rem 0 red;
+  border-radius: 0.85rem;
+  animation: d6 1s infinite linear alternate;
+}
+
+.qouteStyle {
+  font-style: italic;
+}
